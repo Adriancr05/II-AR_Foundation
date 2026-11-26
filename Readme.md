@@ -59,8 +59,6 @@ La araña se configura igual que el paquete: un *prefab* con *collider* en modo 
 5. Comprueba en **Player Settings**: *Scripting Backend* IL2CPP, arquitectura ARM64 y sin Vulkan en *Graphics APIs*.
 6. Conecta el móvil por USB y pulsa **Build And Run**. Los binarios generados se guardan en la carpeta `build/`.
 
-> Para probar sin móvil se puede usar el **XR Simulation Loader** (`Assets/XR/Loaders/SimulationLoader.asset`) en el editor.
-
 ## Estructura del proyecto
 
 ```
