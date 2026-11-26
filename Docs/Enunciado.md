@@ -1,0 +1,7 @@
+# AR Foundation
+
+1. Construir una aplicación de RA con Unity utilizando [AR Foundation](https://campusvirtual.ull.es/2627/ingenieriaytecnologia/mod/url/view.php?id=14818 "AR Foundation")-AR Core. El proyecto de ejemplo de Google sirve de guía [**AR Foundation - AR Core.**](https://codelabs.developers.google.com/arcore-unity-ar-foundation#0)
+2. Adapta el juego del coche del Codelab de [AR Foundation](https://campusvirtual.ull.es/2627/ingenieriaytecnologia/mod/url/view.php?id=14818 "AR Foundation"): los paquetes suman 1 punto, una araña resta 1 punto y la puntuación se muestra en pantalla. Partiendo del Codelab, cuando el coche toca un paquete suma un punto y aparece otro, cuando toca una [araña](https://assetstore.unity.com/packages/3d/characters/creatures/fuga-spiders-with-destructible-eggs-and-mummy-151921), resta 1 punto y aparece otra. La puntuación se muestra en pantalla. La araña se configura igual que el paquete: un prefab con collider en modo trigger y un spawner que la coloca al azar en el plano bloqueado. Lo nuevo es el tag y la mecánica de puntos.
+
+**NOTA: [Ejemplo AR Foundation para iOS (AR Kit).](https://medium.com/augmented-reality-tutorial/day-1-creating-an-ar-app-for-ios-using-unity-and-arkit-tutorials-for-ar-e99d5a2e8c8b) No verificado**
+[codelab-starter-package.unitypackage](https://campusvirtual.ull.es/2627/ingenieriaytecnologia/pluginfile.php/19060/mod_assign/introattachment/0/codelab-starter-package.unitypackage?forcedownload=1)
